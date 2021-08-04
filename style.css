@@ -1,0 +1,19 @@
+/** @format */
+
+#forms {
+	display: flex;
+	align-items: center;
+	border: 2px solid black;
+}
+
+form {
+	width: 10%;
+}
+
+#forms div {
+	flex: 1;
+	padding-left: 20%;
+}
+#au {
+	margin-left: 42%;
+}
